@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 👋 Hii i am Vivek<br><br>
-🔭 I’m currently working on the Door Step Service Website https://doorstep-services-website-liard.vercel.app/<br><br>🌱 I’m currently learning Node.js, MongoDB<br><br>👨‍💻 All of my projects are available at https://rutwiks-portfolio.netlify.app/
+🔭 I’m currently rookie web developer<br><br>🌱 I’m currently learning Node.js, MongoDB<br><br>🎓 Studying Computer Science Engineering<br><br>📫 How to reach me gargvivek2003@gmail.com
 
 ## 🌐 Socials:
 
