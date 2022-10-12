@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hii i am Vivek<br><br>
+👋 Hii i am Vivek Garg<br><br>
 🔭 I’m currently rookie web developer<br><br>🌱 I’m currently learning Node.js, MongoDB<br><br>🎓 Studying Computer Science Engineering<br><br>📫 How to reach me gargvivek2003@gmail.com
 
 ## 🌐 Socials:
@@ -8,6 +8,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Vivek#9927) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivek_garg03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-garg-2992b5235) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gargvivek2003)
 
 # 💻 Tech Stack:
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=anthon&size=26&duration=5002&color=D32EFF&lines=C%2FC%2B%2B;HTML+%7C+CSS+%7C+JavaScript+%7C+HTML5;MySQL+%7C+SQL;Visual+Studio+code+%7C+Git)](https://git.io/typing-svg)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
