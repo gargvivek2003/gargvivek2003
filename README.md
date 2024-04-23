@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200.gif"> 👋 Hii i am Vivek Garg<br><br>
-🔭 I’m currently rookie web developer<br><br>🎓 Studying Computer Science Engineering<br><br>📫 How to reach me gargvivek2003@gmail.com
+🔭 I’m currently rookie data analyst<br><br>🎓 Studying Computer Science Engineering<br><br>📫 How to reach me gargvivek2003@gmail.com
 
 ## 🌐 Socials:
 
